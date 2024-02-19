@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Jumbo Space</title>
+        <link>https://jumboalex.github.io/page/</link>
+        <description>Recent content in Pages on Jumbo Space</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>jumbo chow</copyright>
+        <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jumboalex.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://jumboalex.github.io/archives/</link>
+        <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://jumboalex.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://jumboalex.github.io/about/</link>
+        <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://jumboalex.github.io/about/</guid>
+        <description>&lt;p&gt;Jumbo，大名周正玻，在美国的朋友们称呼Jumbo或者ZZ，国内的好友们叫我小玻或者班长，只要顺口就行。之前写博客还是在msn时代，曲指一算差不多15,6年以前了。人已不惑，虽然没有归来仍是少年的境界，但慢慢还是希望能记录一下自己的生活和感悟，顺带练习一下写作表达。写得不好，还请诸位看官多多包含。&lt;/p&gt;
+&lt;p&gt;这个博客平台也是自己搭的，host在github上，属于直男码工的典型。本人喜欢简约型的主题，也会慢慢再寻找新的更好的主题或者调整主题风格，不过还是自己写的东西最重要。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://jumboalex.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://jumboalex.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
